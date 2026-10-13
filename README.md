@@ -293,6 +293,7 @@ Everything below is community-built and sits on top of these seams.
 - [PerryLink/dsh-score](https://github.com/PerryLink/dsh-score) (★6) — Multi-dimensional plugin quality scoring, every conclusion backed by real CLI evidence.
 - [PerryLink/dsh-test-drive](https://github.com/PerryLink/dsh-test-drive) (★9) — Isolated install-and-smoke test drives in a throwaway profile, with a structured pass/fail matrix.
 - [PerryLink/dsh-checkpoint-rewind](https://github.com/PerryLink/dsh-checkpoint-rewind) (★18) — Session, workspace and config checkpoints with one-shot /rewind rollback and a timeline of pairwise diffs.
+- [dsh-version-guard](https://github.com/skyjjgw/dsh-version-guard) — Snapshots plugin versions and profile configuration, with an independent recovery page to restore a known-good configuration when DSH cannot start. ⭐1
 
 ### Fun & Misc
 
